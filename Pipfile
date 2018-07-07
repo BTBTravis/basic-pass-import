@@ -4,9 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
+pyinstaller = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "2.7"
